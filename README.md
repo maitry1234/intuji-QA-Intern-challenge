@@ -1,1 +1,1 @@
-# intuji-QA-Intern-challenge
+# cypress-testing
